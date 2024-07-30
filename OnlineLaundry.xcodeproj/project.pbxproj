@@ -63,7 +63,7 @@
 		0A37C08D27C91F5100B5A7A7 = {
 			isa = PBXGroup;
 			children = (
-				0A37C09827C91F5100B5A7A7 /* RTicket */,
+				0A37C09827C91F5100B5A7A7 /* Laundry */,
 				0A37C09727C91F5100B5A7A7 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -76,7 +76,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		0A37C09827C91F5100B5A7A7 /* RTicket */ = {
+		0A37C09827C91F5100B5A7A7 /* Laundry */ = {
 			isa = PBXGroup;
 			children = (
 				0A37C09927C91F5100B5A7A7 /* RTicketApp.swift */,
@@ -85,7 +85,7 @@
 				0A37C09D27C91F5300B5A7A7 /* Assets.xcassets */,
 				0A37C09F27C91F5300B5A7A7 /* Preview Content */,
 			);
-			path = RTicket;
+			path = Laundry;
 			sourceTree = "<group>";
 		};
 		0A37C09F27C91F5300B5A7A7 /* Preview Content */ = {
