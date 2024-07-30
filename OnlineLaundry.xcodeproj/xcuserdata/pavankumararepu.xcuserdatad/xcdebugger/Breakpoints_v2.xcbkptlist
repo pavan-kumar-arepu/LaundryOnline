@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "19D1D2B6-7CD6-47D0-9C2D-74604685716D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E11CD227-4B5E-4E26-8CF9-27ECD348BA19"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RTicket/Views/TicketsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "clearSubscriptions()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E11CD227-4B5E-4E26-8CF9-27ECD348BA19 - b16944e9d995e584"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RTicket.TicketsView.clearSubscriptions() -&gt; ()"
+                  moduleName = "RTicket"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pavankumararepu/Downloads/RTicket-main/iOS/RTicket/RTicket/Views/TicketsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "373">
+               </Location>
+               <Location
+                  uuid = "E11CD227-4B5E-4E26-8CF9-27ECD348BA19 - c8cb7f83d96e051f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in RTicket.TicketsView.clearSubscriptions() -&gt; ()"
+                  moduleName = "RTicket"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pavankumararepu/Downloads/RTicket-main/iOS/RTicket/RTicket/Views/TicketsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CCEE850B-A34C-4B7D-ADB4-8CC4E34304E2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RTicket/Views/TicketsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "addTicket()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
